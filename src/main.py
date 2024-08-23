@@ -54,7 +54,6 @@ if __name__ == "__main__":
             print("Erro!")
             print(e)
 
-
     carro1.desligar()
     carro2.desligar()
     if carro1.odometro > carro2.odometro:
